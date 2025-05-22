@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patricia Shiloh Kanneh 
 
-Frontend Developer ------------------ 
+Frontend Developer 
+
 Hi there! I’m a passionate and curious developer on a journey to build meaningful and accessible web experiences. I’m currently learning and building with React.js for dynamic user interfaces, along with JavaScript, HTML, and CSS for clean, responsive frontend development. I’m also deepening my understanding of algorithms and logic using C++ and Python, and I plan to explore backend technologies like Node.js soon. Some of my recent projects include a C++ quiz app to help students revise, a simple Kanban board for task tracking, and a personalized study timetable web app currently in progress. I’m driven by the desire to solve real-world problems through code and enjoy helping others grow by sharing what I learn. Always learning, always building—and always open to collaboration, contributions, and creative ideas. Let’s connect and grow together! 
 * 🌍  I'm based in Accra-Ghana * ✉️
 *  You can contact me at [patriciashilohkanneh12@gmail.com](mailto:patriciashilohkanneh12@gmail.com)
