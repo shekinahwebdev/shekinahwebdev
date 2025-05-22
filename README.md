@@ -18,7 +18,6 @@ Hi there! I’m a passionate and curious developer on a journey to build meaning
 ### Badges
 
 <b>My GitHub Stats</b>
-
 <a href="http://www.github.com/shekinahwebdev"><img src="https://github-readme-stats.vercel.app/api?username=shekinahwebdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=f97316&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="shekinahwebdev's GitHub stats" /></a>
 <a href="http://www.github.com/shekinahwebdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shekinahwebdev&stroke=f97316&background=000000&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 <a href="http://www.github.com/shekinahwebdev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shekinahwebdev&bg_color=000000&color=f97316&line=f97316&point=f97316&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
