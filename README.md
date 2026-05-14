@@ -7,7 +7,7 @@ Take one down, patch it around.😎
 I don’t just enjoy coding — I enjoy building systems that solve real problems.✨
 
 
-👩‍💻 I’m a Ghana-based software engineer focused on turning ideas into products people can actually use. 
+👩‍💻 I’m a Ghana-based software developer focused on turning ideas into products people can actually use. 
 My journey started with frontend development, but over time I became more interested in the bigger picture of software engineering:
 - architecture 
 - user experience
